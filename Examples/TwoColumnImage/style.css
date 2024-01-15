@@ -1,0 +1,23 @@
+.newsletterContainer {
+  padding-top: 35px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterContainer {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.newsletterBottom20px {
+  padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterBottom20px {
+    padding-bottom: 10px;
+  }
+}

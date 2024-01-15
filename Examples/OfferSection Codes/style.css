@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+.newsletterTitle {
+  font-size: 30px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  color: #000000;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterTitle {
+    font-size: 25px;
+  }
+}
+
+.newsletterSubtitle {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  color: #000000;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterSubtitle {
+    font-size: 16px;
+  }
+}
+
+.newsletterContainerLeftRigth {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterContainerLeftRigth {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.newsletterTop35px {
+  padding-top: 35px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterTop35px {
+    padding-top: 20px;
+  }
+}
+
+.newsletterTop20px {
+  padding-top: 20px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .newsletterTop20px {
+    padding-top: 10px;
+  }
+}
