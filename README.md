@@ -8,3 +8,4 @@
   so, if you want to add more containers for Title, you have to nest in inside tables.
   Check exmaples of HTML code inside Examples folder.
 
+# All components aligned by default to center
