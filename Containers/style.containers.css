@@ -16,12 +16,6 @@
   padding-right: 140px;
 }
 
-.newsletterProductContainer {
-  padding-top: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
 @media screen and (max-width: 768px) {
   .newsletterContainer {
     padding-top: 20px;
@@ -37,11 +31,5 @@
   .newsletterGitContainer {
     padding-left: 35px;
     padding-right: 35px;
-  }
-
-  .newsletterProductContainer {
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
   }
 }
