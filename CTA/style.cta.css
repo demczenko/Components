@@ -1,0 +1,20 @@
+.newsletterCtaContainer {
+  padding-bottom: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.newsletterCta {
+  color: #000;
+  font-size: 20px;
+  line-height: 1.25;
+  font-family: "Open Sans", sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterCtaContainer {
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
