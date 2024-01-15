@@ -11,4 +11,7 @@ https://validator.w3.org/
   so, if you want to add more containers for Title, you have to nest in inside tables.
   Check exmaples of HTML code inside Examples folder.
 
+# Class can be applied only for td or table
+  unless you change display property for tag.
+
 # All components aligned by default to center
