@@ -1,8 +1,8 @@
 ## Components library for Newsletters and Landing Pages
    there is no too much components, because there is a lot of combinations you can create by yourself just by using created markup
 
-# Here you can check is markup you created is valid:
-  https://validator.w3.org/
+# Check yourself:
+   Paste HTML code in order to check is it valid or not: https://validator.w3.org/
 
 # YAGNI
    Before creating new class, think about is it possible to use classes that have been already created to achieve result
