@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+.newsletterProductTitle {
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  color: #000000;
+}
+
+.newsletterProductLowPrice {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  color: #000000;
+  font-weight: 600;
+}
+
+.newsletterProductHightPrice {
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  color: #000000;
+  text-decoration: line-through;
+}
+
+.newsletterTop20px {
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterProductTitle {
+    font-size: 18px;
+  }
+
+  .newsletterProductLowPrice {
+    font-size: 16px;
+  }
+
+  .newsletterProductHightPrice {
+    display: block;
+  }
+
+  .newsletterProductTitleContainer {
+    padding-top: 10px;
+  }
+
+  .newsletterTop20px {
+    padding-top: 10px;
+  }
+}

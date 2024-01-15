@@ -2,8 +2,32 @@
   padding-bottom: 35px;
 }
 
+.newsletterBottom20px {
+  padding-bottom: 20px;
+}
+
+.newsletterTop35px {
+  padding-top: 35px;
+}
+
+.newsletterTop20px {
+  padding-top: 20px;
+}
+
 @media screen and (max-width: 768px) {
   .newsletterBottom35px {
     padding-bottom: 20px;
+  }
+
+  .newsletterBottom20px {
+    padding-bottom: 10px;
+  }
+
+  .newsletterTop35px {
+    padding-top: 20px;
+  }
+  
+  .newsletterTop20px {
+    padding-top: 10px;
   }
 }
