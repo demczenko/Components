@@ -7,5 +7,5 @@
 
 # Here since you have only 1 row you can apply container style for td column and result will be the same
 
-## code [example]([url](https://github.com/demczenko/Components/blob/main/Examples/TitleWithContainer/TitleWithContainers.html))
+## code [example](https://github.com/demczenko/Components/blob/main/Examples/TitleWithContainer/TitleWithContainers.html)
 ![image](https://github.com/demczenko/Components/assets/134509169/9b5f2163-606d-41b3-b6eb-3948ef93dd6a)
