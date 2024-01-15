@@ -4,6 +4,8 @@
 # Here you can check is markup you created is valid:
   https://validator.w3.org/
 
+# Before creating new class, think about is it possible to use classes that have been already created to achieve result
+
 # Components created without paddings, added only styles for text with media queries for media query: max-width: 768px
   since containers depends from design you can create it for yourself,
   most common containers added to Containers folder.
