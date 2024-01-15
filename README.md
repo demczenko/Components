@@ -1,7 +1,8 @@
 ## Components library for Newsletters and Landing Pages
+   there is no too much components, because there is a lot of combinations you can create by yourself just by using created markup
 
 # Here you can check is markup you created is valid:
-https://validator.w3.org/
+  https://validator.w3.org/
 
 # Components created without paddings, added only styles for text with media queries for media query: max-width: 768px
   since containers depends from design you can create it for yourself,
