@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+.newsletterTitle {
+  font-size: 30px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  color: #000000;
+}
+
+.newsletterBottom35px {
+  padding-bottom: 35px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterBottom35px {
+    padding-bottom: 20px;
+  }
+
+  .newsletterTitle {
+    font-size: 25px;
+  }
+}
