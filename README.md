@@ -18,3 +18,46 @@
 
 # Class with padding can be applied only for td or table
   unless you change display property for tag.
+
+# What is complex component?
+Component this is code that contains other small components.
+
+Example:
+Category component (complex component) contain components like:
+
+Title,
+Image witl link
+Subtitle
+Products grid
+CTA
+
+# Why CTA, Title and Subtitle are components?
+
+Because every component contain different styles for Text.
+CTA - 20px
+Title - 30px
+Subtitle - 18px 
+
+# Where to find complex components?
+
+Example folder contains folders with components.
+Every folder component contains 2 files: *.css and *.html
+
+# How to use complex component?
+
+Copy html code from html file and paste it into newsletter.html file.
+Copy style code from css file and paste it into newsletter.css file.
+
+## Ceveats!
+
+Every complex component folder contains css file where can be duplicated some styles.
+
+Example:
+You have newsletter with 4 categories and Intro section.
+
+Since category component contains title and subtitle.
+in style.css file you will find the title and subtitle styles.
+
+And Intro section contains the same styles for title and subtitle.
+
+So, there is no reason to copy second time styles from intro.css file for title and subtitle since them will be duplicated.
