@@ -48,7 +48,7 @@ Every folder component contains 2 files: *.css and *.html
 Copy html code from html file and paste it into newsletter.html file.
 Copy style code from css file and paste it into newsletter.css file.
 
-## Ceveats!
+## Caveats!
 
 Every complex component folder contains css file where can be duplicated some styles.
 
