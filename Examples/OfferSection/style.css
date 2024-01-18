@@ -26,24 +26,36 @@
   }
 }
 
-.newsletterContainerLeftRigth {
+.newsletterContainer {
   padding-left: 20px;
   padding-right: 20px;
 }
 
 @media screen and (max-width: 768px) {
-  .newsletterContainerLeftRigth {
+  .newsletterContainer {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
 
-.newsletterTop35px {
-  padding-top: 35px;
+.newsletterBottom35px {
+  padding-bottom: 35px;
 }
 
 @media screen and (max-width: 768px) {
-  .newsletterTop35px {
-    padding-top: 20px;
+  .newsletterBottom35px {
+    padding-bottom: 20px;
+  }
+}
+
+.newsletterBlackWeekCode {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterBlackWeekCode {
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 }
