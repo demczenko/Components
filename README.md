@@ -48,9 +48,9 @@ Every folder component contains 2 files: *.css and *.html
 
 ## How to use complex component?
 
-**Step 1**
+**Step 1** <br />
 Copy html code from html file and paste it into newsletter.html file. <br />
-**Step 2**
+**Step 2** <br />
 Complex components should be nested inside **td** tag. <br />
 (you can always validate your markup)
 <br />
