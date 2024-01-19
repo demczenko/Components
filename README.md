@@ -5,7 +5,7 @@
    This is not a required step.
    Paste HTML code in order to check is it valid or not: https://validator.w3.org/
 
-## YAGNI
+## important - YAGNI
    Before creating new class, think about is it possible to use classes that have been already created to achieve result
 
 ## Components created without paddings and background colors. Added only styles for text with media queries for media query: max-width: 768px
