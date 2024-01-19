@@ -40,7 +40,7 @@ Subtitle - 18px
 
 ## Where to find complex components?
 
-[Example]([https://github.com/demczenko/Components/tree/main/Examples]) folder contains folders with components.
+[Example](https://github.com/demczenko/Components/tree/main/Examples) folder contains folders with components.
 Every folder component contains 2 files: *.css and *.html
 
 ## How to use complex component?
