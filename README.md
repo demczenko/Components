@@ -1,7 +1,7 @@
 # Components library for Newsletters and Landing Pages
    There is no too much components, because there is a lot of combinations you can create by yourself just by using created markup
 
-## Check yourself:
+## Check yourself
    This is not a required step.
    Paste HTML code in order to check is it valid or not: https://validator.w3.org/
 
