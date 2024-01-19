@@ -26,11 +26,11 @@
 Component this is code that contains other small components.
 
 Example:
-Category component (complex component) contain components like:
+[Category component](https://github.com/demczenko/Components/tree/main/Examples/CategoryImageWithProducts) (complex component) contain components like:
 
 Title,
-Image witl link
-Subtitle
+Image with link
+Subtitle 
 Products grid
 CTA
 
