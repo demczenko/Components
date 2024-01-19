@@ -59,7 +59,7 @@ Copy style code from css file and paste it into newsletter.css file.
 
 ## Caveats!
 
-Every complex component folder contains css file where can be duplicated some styles.
+Every complex component folder contains css file in which some styles can be duplicated.
 
 Example:
 You have newsletter with 4 categories and Intro section.
