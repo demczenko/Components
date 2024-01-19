@@ -36,7 +36,7 @@ CTA
 
 ## Why CTA, Title and Subtitle are components?
 
-Because every component contain different styles for Text.
+Because every component contain different styles for Text.<br />
 CTA - 20px font-size <br />
 Title - 30px font-size <br />
 Subtitle - 18px font-size <br />
