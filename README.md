@@ -37,9 +37,9 @@ CTA
 ## Why CTA, Title and Subtitle are components?
 
 Because every component contain different styles for Text.
-CTA - 20px
-Title - 30px
-Subtitle - 18px 
+CTA - 20px font-size <br />
+Title - 30px font-size <br />
+Subtitle - 18px font-size <br />
 
 ## Where to find complex components?
 
