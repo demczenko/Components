@@ -52,8 +52,9 @@ Every folder component contains 2 files: *.css and *.html
 Copy html code from html file and paste it into your newsletter.html file. <br />
 **Step 2** <br />
 Complex components should be nested inside **td** tag. <br />
-(you can always validate your markup)
+(you can always validate your markup - only to check **tag** markup)
 <br />
+**Step 3** <br />
 Copy style code from css file and paste it into newsletter.css file.
 
 ## Caveats!
