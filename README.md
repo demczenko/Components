@@ -29,9 +29,9 @@ Example:
 [Category component](https://github.com/demczenko/Components/tree/main/Examples/CategoryImageWithProducts) (complex component) contain components like:
 
 Title,
-Image with link
-Subtitle 
-Products grid
+Image with link,
+Subtitle,
+Products grid and
 CTA
 
 ## Why CTA, Title and Subtitle are components?
