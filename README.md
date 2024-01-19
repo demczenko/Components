@@ -64,9 +64,7 @@ Every complex component folder contains css file in which some styles can be dup
 Example:
 You have newsletter with 4 categories and Intro section.
 
-Since category component contains title and subtitle.
-in style.css file you will find the title and subtitle styles.
+Since category component contains title and subtitle, you will find the title and subtitle styles in style.css file.
+Intro section component also contains the same styles for title and subtitle.
 
-And Intro section contains the same styles for title and subtitle.
-
-So, there is no reason to copy second time styles from intro.css file for title and subtitle since them will be duplicated.
+So, there is no reason to copy second time styles from style.intro.css file for title and subtitle as they will be duplicated.
