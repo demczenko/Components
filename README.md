@@ -19,6 +19,8 @@
 
 ## Class with padding can be applied only for td or table
   Unless you change display property for tag.
+   But, if you apply padding for table tag, be shure that on Outlook older version it will render as you expected.
+   Check [Figma file](https://www.figma.com/file/UxCIKxIAe1VRXjWivWkRFK/HTML-EMAILS-STYLES-AND-RESTRICTIONS?type=design&node-id=0-1&mode=design&t=EJtLwyfWK4maaroO-0) to figure out with Outlook bugs
 
 ## What is complex component?
 Component this is code that contains other small components.
