@@ -76,10 +76,6 @@
   text-decoration: line-through;
 }
 
-.newsletterTop20px {
-  padding-top: 20px;
-}
-
 @media screen and (max-width: 768px) {
   .newsletterProductTitle {
     font-size: 18px;
@@ -96,20 +92,6 @@
   .newsletterProductTitleContainer {
     padding-top: 10px;
   }
-
-  .newsletterTop20px {
-    padding-top: 10px;
-  }
-}
-
-.newsletterTop35px {
-  padding-top: 35px;
-}
-
-@media screen and (max-width: 768px) {
-  .newsletterTop35px {
-    padding-top: 20px;
-  }
 }
 
 .newsletterBottom20px {
@@ -119,5 +101,25 @@
 @media screen and (max-width: 768px) {
   .newsletterBottom20px {
     padding-bottom: 10px;
+  }
+}
+
+.newsletterRight10px {
+  padding-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterRight10px {
+    padding-right: 5px;
+  }
+}
+
+.newsletterLeft10px {
+  padding-left: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .newsletterLeft10px {
+    padding-left: 5px;
   }
 }

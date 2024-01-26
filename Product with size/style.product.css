@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap");
 
 .newsletterProductTitle {
   font-size: 20px;
@@ -23,10 +23,6 @@
   text-decoration: line-through;
 }
 
-.newsletterTop20px {
-  padding-top: 20px;
-}
-
 @media screen and (max-width: 768px) {
   .newsletterProductTitle {
     font-size: 18px;
@@ -41,10 +37,6 @@
   }
 
   .newsletterProductTitleContainer {
-    padding-top: 10px;
-  }
-
-  .newsletterTop20px {
     padding-top: 10px;
   }
 }

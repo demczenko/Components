@@ -1,3 +1,7 @@
+.newsletterBottom60px {
+  padding-bottom: 60px;
+}
+
 .newsletterBottom35px {
   padding-bottom: 35px;
 }
@@ -6,15 +10,19 @@
   padding-bottom: 20px;
 }
 
-.newsletterTop35px {
-  padding-top: 35px;
+.newsletterRight10px {
+  padding-right: 10px;
 }
 
-.newsletterTop20px {
-  padding-top: 20px;
+.newsletterLeft10px {
+  padding-left: 10px;
 }
 
 @media screen and (max-width: 768px) {
+  .newsletterBottom60px {
+    padding-bottom: 40px;
+  }
+
   .newsletterBottom35px {
     padding-bottom: 20px;
   }
@@ -23,11 +31,11 @@
     padding-bottom: 10px;
   }
 
-  .newsletterTop35px {
-    padding-top: 20px;
+  .newsletterRight10px {
+    padding-right: 5px;
   }
   
-  .newsletterTop20px {
-    padding-top: 10px;
+  .newsletterLeft10px {
+    padding-left: 5px;
   }
 }

@@ -47,15 +47,3 @@
     padding-bottom: 20px;
   }
 }
-
-.newsletterBlackWeekCode {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-
-@media screen and (max-width: 768px) {
-  .newsletterBlackWeekCode {
-    padding-top: 40px;
-    padding-bottom: 40px;
-  }
-}

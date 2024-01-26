@@ -23,10 +23,6 @@
   text-decoration: line-through;
 }
 
-.newsletterTop20px {
-  padding-top: 20px;
-}
-
 @media screen and (max-width: 768px) {
   .newsletterProductTitle {
     font-size: 18px;
@@ -41,10 +37,6 @@
   }
 
   .newsletterProductTitleContainer {
-    padding-top: 10px;
-  }
-
-  .newsletterTop20px {
     padding-top: 10px;
   }
 }
