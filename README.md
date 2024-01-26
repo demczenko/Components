@@ -8,14 +8,15 @@
 ## important - YAGNI
    Before creating new class, think about is it possible to use classes that have been already created to achieve result
 
-## Components created without paddings and background colors. Added only styles for text with media queries for media query: max-width: 768px
-  Since containers depends from design you can create it for yourself,
-  most common containers added to Containers folder.
-  In order to add background color, you can add inline style for particular tag.
+## Components created without paddings, background colors and width setted to 100%.
+   Added only styles for text with media queries for media query: max-width: 768px
+   Since containers depends from design you can create it for yourself,
+   most common containers added to Containers folder.
+   In order to add background color, you can add inline style for particular tag.
 
 ## Outlook doesn't accept class="first_class second_class" only class="first_class" is accepted
-  So, if you want to add more containers for Title, you have to nest in inside tables.
-  Check exmaples of HTML code inside Examples folder.
+   So, if you want to add more containers for Title, you have to nest in inside tables.
+   Check exmaples of HTML code inside Examples folder.
 
 ## Class with padding can be applied only for td or table
    Unless you change display property for tag.
