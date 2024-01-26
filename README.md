@@ -54,6 +54,9 @@
    **Step 3** <br />
    Copy style code from css file and paste it into newsletter.css file.
 
+## Rules
+   Use only padding bottom
+
 ## Caveats!
    Every complex component folder contains css file in which some styles can be duplicated.
    
