@@ -1,3 +1,7 @@
+.newsletterBottom80px {
+  padding-bottom: 80px;
+}
+
 .newsletterBottom60px {
   padding-bottom: 60px;
 }
@@ -19,6 +23,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  .newsletterBottom80px {
+    padding-bottom: 50px;
+  }
+  
   .newsletterBottom60px {
     padding-bottom: 40px;
   }
